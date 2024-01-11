@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+promo-theme.com	TRUE	/	FALSE	1999999999	PHPSESSID	cc661d9ad1e011664d6adad098dda652
+
